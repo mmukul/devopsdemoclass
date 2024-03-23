@@ -1,6 +1,8 @@
-# Devops class
+# Source Control with Git
 
-## Push or create local branch to remote repo
+## Merging strategy
+
+## Push or create local branch to remote branch repo
 ```
 git push -u origin <branch-name>
 ```
