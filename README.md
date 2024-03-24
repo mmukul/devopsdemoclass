@@ -1,6 +1,6 @@
 # Source Control with Git
 
-## Merging strategy
+## Merging strategy -->
 
 ### Merging
 ```
@@ -11,6 +11,10 @@ git merge <feature branch>    # merge in master branch
 ```
 git rebase <feature branch>   # rebase in master branch
 ```
+
+## Save changes on branch with Stash -->
+
+
 
 ## Push or create local branch to remote branch repo
 ```
